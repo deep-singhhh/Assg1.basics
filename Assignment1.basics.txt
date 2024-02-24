@@ -1,0 +1,59 @@
+question 1
+
+
+#include<iostream>
+
+using namespace std;
+int main()
+{
+    cout<<"physics"<<endl<<"wallah";
+    return 0;
+}
+
+
+
+question 2
+
+
+
+#include<iostream>
+
+using namespace std;
+int main()
+{
+    cout<<5+5<<endl;
+    return 0;
+}
+
+
+
+
+question 3
+
+int =  4byte
+bool = 1byte
+float = 4byte
+
+
+
+
+question 4
+
+output= 6 4
+
+
+
+
+question 5
+
+#include<iostream>
+using namespace std;
+int main(){
+    cout<<2*(22/7.0)*10;
+    return 0;
+}
+
+
+question 6
+
+2nd and 4th are valid
